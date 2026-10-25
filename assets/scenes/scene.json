@@ -1,0 +1,2026 @@
+{
+    "entities": [
+        {
+            "entities": [
+                {
+                    "components": [
+                        {
+                            "data": {
+                                "Position": [
+                                    -15.577251434326172,
+                                    57.743499755859375,
+                                    -85.94013977050781
+                                ],
+                                "Rotation": [
+                                    -0.00021533372637350112,
+                                    -0.9990461468696594,
+                                    -0.004958776757121086,
+                                    0.04338334500789642
+                                ],
+                                "Scale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ]
+                            },
+                            "type": "Transform"
+                        },
+                        {
+                            "data": {
+                                "Aspect Ratio": 1.9028741121292114,
+                                "Aspect Ratio from Window": true,
+                                "Far Plane": 1000.0,
+                                "Fov": 55.06609344482422,
+                                "Near Plane": 0.10000000149011612,
+                                "Offset": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Pitch": -0.5687718391418457,
+                                "Variant": "Fps Camera",
+                                "Yaw": -175.02700805664063
+                            },
+                            "type": "Camera"
+                        },
+                        {
+                            "data": {},
+                            "type": "MainCameraTag"
+                        },
+                        {
+                            "data": {
+                                "Clip Name": "Default Clip",
+                                "Duration": 13.0,
+                                "Loop": true,
+                                "Playing": true,
+                                "Speed": 0.75,
+                                "Time": 5.078676223754883,
+                                "Tracks": [
+                                    {
+                                        "component": "",
+                                        "keyframes": [
+                                            {
+                                                "ease": "InQuad",
+                                                "time": 0.0,
+                                                "type": "vec3",
+                                                "value": [
+                                                    -38.537879943847656,
+                                                    136.89532470703125,
+                                                    -102.49522399902344
+                                                ]
+                                            },
+                                            {
+                                                "ease": "InQuad",
+                                                "time": 3.0,
+                                                "type": "vec3",
+                                                "value": [
+                                                    -40.2329216003418,
+                                                    98.08503723144531,
+                                                    -94.4329833984375
+                                                ]
+                                            },
+                                            {
+                                                "ease": "InOutSine",
+                                                "time": 5.0,
+                                                "type": "vec3",
+                                                "value": [
+                                                    -40.2329216003418,
+                                                    63.08503723144531,
+                                                    -94.4329833984375
+                                                ]
+                                            },
+                                            {
+                                                "ease": "OutElastic",
+                                                "time": 7.0,
+                                                "type": "vec3",
+                                                "value": [
+                                                    -13.918095588684082,
+                                                    43.594451904296875,
+                                                    -49.93654251098633
+                                                ]
+                                            },
+                                            {
+                                                "ease": "None",
+                                                "time": 7.010000228881836,
+                                                "type": "vec3",
+                                                "value": [
+                                                    -13.918000221252441,
+                                                    43.59400177001953,
+                                                    -49.9370002746582
+                                                ]
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 7.5,
+                                                "type": "vec3",
+                                                "value": [
+                                                    -83.10464477539063,
+                                                    93.49948120117188,
+                                                    -32.06483840942383
+                                                ]
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 10.010000228881836,
+                                                "type": "vec3",
+                                                "value": [
+                                                    -5.592186450958252,
+                                                    89.84358978271484,
+                                                    -93.32088470458984
+                                                ]
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 12.5,
+                                                "type": "vec3",
+                                                "value": [
+                                                    58.54245376586914,
+                                                    76.41705322265625,
+                                                    -37.1840934753418
+                                                ]
+                                            }
+                                        ],
+                                        "property": "Position"
+                                    },
+                                    {
+                                        "component": "",
+                                        "keyframes": [
+                                            {
+                                                "ease": "InQuad",
+                                                "time": 0.0,
+                                                "type": "float",
+                                                "value": -162.49661254882813
+                                            },
+                                            {
+                                                "ease": "InQuad",
+                                                "time": 3.0,
+                                                "type": "float",
+                                                "value": -157.29653930664063
+                                            },
+                                            {
+                                                "ease": "OutElastic",
+                                                "time": 7.0,
+                                                "type": "float",
+                                                "value": -164.0970001220703
+                                            },
+                                            {
+                                                "ease": "None",
+                                                "time": 7.010000228881836,
+                                                "type": "float",
+                                                "value": -164.09658813476563
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 7.5,
+                                                "type": "float",
+                                                "value": -99.57073974609375
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 10.029999732971191,
+                                                "type": "float",
+                                                "value": -179.5707550048828
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 12.5,
+                                                "type": "float",
+                                                "value": -260.6706237792969
+                                            }
+                                        ],
+                                        "property": "Yaw"
+                                    },
+                                    {
+                                        "component": "",
+                                        "keyframes": [
+                                            {
+                                                "ease": "InQuad",
+                                                "time": 0.0,
+                                                "type": "float",
+                                                "value": 11.199952125549316
+                                            },
+                                            {
+                                                "ease": "InQuad",
+                                                "time": 3.0,
+                                                "type": "float",
+                                                "value": -18.500059127807617
+                                            },
+                                            {
+                                                "ease": "OutElastic",
+                                                "time": 7.0,
+                                                "type": "float",
+                                                "value": 22.399999618530273
+                                            },
+                                            {
+                                                "ease": "None",
+                                                "time": 7.010000228881836,
+                                                "type": "float",
+                                                "value": 22.39995574951172
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 7.5,
+                                                "type": "float",
+                                                "value": -19.304000854492188
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 10.050000190734863,
+                                                "type": "float",
+                                                "value": -16.804363250732422
+                                            },
+                                            {
+                                                "ease": "InOutCubic",
+                                                "time": 12.5,
+                                                "type": "float",
+                                                "value": -17.104351043701172
+                                            }
+                                        ],
+                                        "property": "Pitch"
+                                    },
+                                    {
+                                        "component": "",
+                                        "keyframes": [
+                                            {
+                                                "ease": "InSine",
+                                                "time": 0.0,
+                                                "type": "float",
+                                                "value": 45.0
+                                            },
+                                            {
+                                                "ease": "None",
+                                                "time": 7.0,
+                                                "type": "float",
+                                                "value": 60.0
+                                            },
+                                            {
+                                                "ease": "None",
+                                                "time": 7.010000228881836,
+                                                "type": "float",
+                                                "value": 60.0
+                                            }
+                                        ],
+                                        "property": "Fov"
+                                    }
+                                ]
+                            },
+                            "type": "Animator"
+                        }
+                    ],
+                    "name": "Camera",
+                    "visible": true
+                },
+                {
+                    "entities": [
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Rotation": [
+                                            0.0,
+                                            0.0,
+                                            0.0,
+                                            1.0
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Definition": "end_island",
+                                        "Emissive Color": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Emissive Intensity": 10.0,
+                                        "Emissive Only": false,
+                                        "Emissive Parts Only": true
+                                    },
+                                    "type": "Model"
+                                }
+                            ],
+                            "name": "End Island",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Rotation": [
+                                            0.0,
+                                            0.0,
+                                            0.0,
+                                            1.0
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Definition": "ender_dragon",
+                                        "Emissive Color": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Emissive Intensity": 10.0,
+                                        "Emissive Only": false,
+                                        "Emissive Parts Only": true
+                                    },
+                                    "type": "Model"
+                                },
+                                {
+                                    "data": {
+                                        "Animation": "Scene",
+                                        "Loop": true,
+                                        "Play": true,
+                                        "Speed": 1.5
+                                    },
+                                    "type": "ModelAnimator"
+                                }
+                            ],
+                            "name": "Ender Dragon",
+                            "visible": true
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Rotation": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0,
+                                                    1.0
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Definition": "enderman_1",
+                                                "Emissive Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Emissive Intensity": 10.0,
+                                                "Emissive Only": false,
+                                                "Emissive Parts Only": true
+                                            },
+                                            "type": "Model"
+                                        }
+                                    ],
+                                    "name": "Enderman 1",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Rotation": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0,
+                                                    1.0
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Definition": "enderman_2",
+                                                "Emissive Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Emissive Intensity": 10.0,
+                                                "Emissive Only": false,
+                                                "Emissive Parts Only": true
+                                            },
+                                            "type": "Model"
+                                        }
+                                    ],
+                                    "name": "Enderman 2",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Rotation": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0,
+                                                    1.0
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Definition": "enderman_3",
+                                                "Emissive Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Emissive Intensity": 10.0,
+                                                "Emissive Only": false,
+                                                "Emissive Parts Only": true
+                                            },
+                                            "type": "Model"
+                                        }
+                                    ],
+                                    "name": "Enderman 3",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Rotation": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0,
+                                                    1.0
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Definition": "enderman_4",
+                                                "Emissive Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Emissive Intensity": 10.0,
+                                                "Emissive Only": false,
+                                                "Emissive Parts Only": true
+                                            },
+                                            "type": "Model"
+                                        }
+                                    ],
+                                    "name": "Enderman 4",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Rotation": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0,
+                                                    1.0
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Definition": "enderman_5",
+                                                "Emissive Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Emissive Intensity": 10.0,
+                                                "Emissive Only": false,
+                                                "Emissive Parts Only": true
+                                            },
+                                            "type": "Model"
+                                        }
+                                    ],
+                                    "name": "Enderman 5",
+                                    "visible": true
+                                }
+                            ],
+                            "name": "Endermans",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Rotation": [
+                                            0.0,
+                                            0.0,
+                                            0.0,
+                                            1.0
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Definition": "steve",
+                                        "Emissive Color": [
+                                            0.5056301951408386,
+                                            0.0,
+                                            0.9757084846496582
+                                        ],
+                                        "Emissive Intensity": 1.5,
+                                        "Emissive Only": false,
+                                        "Emissive Parts Only": true
+                                    },
+                                    "type": "Model"
+                                },
+                                {
+                                    "data": {
+                                        "Animation": "Scene",
+                                        "Loop": true,
+                                        "Play": true,
+                                        "Speed": 1.0
+                                    },
+                                    "type": "ModelAnimator"
+                                }
+                            ],
+                            "name": "Steve",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Rotation": [
+                                            0.0,
+                                            0.0,
+                                            0.0,
+                                            1.0
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Definition": "alex",
+                                        "Emissive Color": [
+                                            0.5058823823928833,
+                                            0.0,
+                                            0.9764705896377563
+                                        ],
+                                        "Emissive Intensity": 1.5,
+                                        "Emissive Only": false,
+                                        "Emissive Parts Only": true
+                                    },
+                                    "type": "Model"
+                                },
+                                {
+                                    "data": {
+                                        "Animation": "Scene",
+                                        "Loop": true,
+                                        "Play": true,
+                                        "Speed": 1.0
+                                    },
+                                    "type": "ModelAnimator"
+                                }
+                            ],
+                            "name": "Alex",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Rotation": [
+                                            0.0,
+                                            0.0,
+                                            0.0,
+                                            1.0
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Definition": "dog",
+                                        "Emissive Color": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Emissive Intensity": 0.0,
+                                        "Emissive Only": false,
+                                        "Emissive Parts Only": true
+                                    },
+                                    "type": "Model"
+                                },
+                                {
+                                    "data": {
+                                        "Animation": "Scene",
+                                        "Loop": true,
+                                        "Play": true,
+                                        "Speed": 1.0
+                                    },
+                                    "type": "ModelAnimator"
+                                }
+                            ],
+                            "name": "Dog",
+                            "visible": true
+                        }
+                    ],
+                    "name": "Models",
+                    "visible": true
+                },
+                {
+                    "entities": [
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            -5.86304235458374,
+                                            94.8232421875,
+                                            -122.09495544433594
+                                        ],
+                                        "Rotation": [
+                                            0.0023383470252156258,
+                                            -0.9908322691917419,
+                                            -0.13396607339382172,
+                                            -0.01729475148022175
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Ambient": 0.0,
+                                        "Color": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ],
+                                        "Diffuse": 0.0,
+                                        "Direction": [
+                                            0.0,
+                                            -1.0,
+                                            0.0
+                                        ],
+                                        "Intensity": 0.019999999552965164,
+                                        "Offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Specular": 0.0,
+                                        "Variant": "Directional Light"
+                                    },
+                                    "type": "Light"
+                                }
+                            ],
+                            "name": "Sky",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            -6.679437160491943,
+                                            108.28659057617188,
+                                            -23.0
+                                        ],
+                                        "Rotation": [
+                                            0.0,
+                                            0.0,
+                                            0.0,
+                                            1.0
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Ambient": 0.0,
+                                        "Attenuation": [
+                                            1.0,
+                                            0.09000000357627869,
+                                            0.03200000151991844
+                                        ],
+                                        "Color": [
+                                            0.0,
+                                            0.9647058844566345,
+                                            0.9529411792755127
+                                        ],
+                                        "Diffuse": 0.0,
+                                        "Direction": [
+                                            0.0,
+                                            -1.0,
+                                            0.0
+                                        ],
+                                        "Follow Rotation": true,
+                                        "Inner Cutoff": 0.9762960076332092,
+                                        "Intensity": 2000.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Outer Cutoff": 0.9537169337272644,
+                                        "Specular": 0.0,
+                                        "Variant": "Spot Light"
+                                    },
+                                    "type": "Light"
+                                }
+                            ],
+                            "name": "New Entity 1",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            -6.3209638595581055,
+                                            44.81617736816406,
+                                            -36.808326721191406
+                                        ],
+                                        "Rotation": [
+                                            0.0032190592028200626,
+                                            -0.9294193983078003,
+                                            0.3689219653606415,
+                                            0.008109726011753082
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Ambient": 0.10000000149011612,
+                                        "Attenuation": [
+                                            1.0,
+                                            0.09000000357627869,
+                                            0.03200000151991844
+                                        ],
+                                        "Color": [
+                                            0.4115534722805023,
+                                            0.32077234983444214,
+                                            0.7692307829856873
+                                        ],
+                                        "Diffuse": 0.0,
+                                        "Direction": [
+                                            0.0,
+                                            0.0,
+                                            -1.0
+                                        ],
+                                        "Follow Rotation": true,
+                                        "Inner Cutoff": 0.9762960076332092,
+                                        "Intensity": 2000.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Outer Cutoff": 0.9537169337272644,
+                                        "Specular": 1.0,
+                                        "Variant": "Spot Light"
+                                    },
+                                    "type": "Light"
+                                }
+                            ],
+                            "name": "Dragon",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            -5.113334655761719,
+                                            33.0,
+                                            -97.92507934570313
+                                        ],
+                                        "Rotation": [
+                                            -0.00036849439493380487,
+                                            -0.9996315240859985,
+                                            -0.019193708896636963,
+                                            0.01919163204729557
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Ambient": 0.0,
+                                        "Attenuation": [
+                                            1.0,
+                                            0.09000000357627869,
+                                            0.03200000151991844
+                                        ],
+                                        "Color": [
+                                            0.1522863507270813,
+                                            0.0447474904358387,
+                                            0.31578946113586426
+                                        ],
+                                        "Diffuse": 0.0,
+                                        "Direction": [
+                                            0.0,
+                                            -1.0,
+                                            0.0
+                                        ],
+                                        "Height": 1.0,
+                                        "Intensity": 2.5,
+                                        "Offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Specular": 0.0,
+                                        "Variant": "Area Light",
+                                        "Width": 1.0
+                                    },
+                                    "type": "Light"
+                                }
+                            ],
+                            "name": "Island Bottom",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            -5.113334655761719,
+                                            31.378623962402344,
+                                            -97.92507934570313
+                                        ],
+                                        "Rotation": [
+                                            -0.00036849439493380487,
+                                            -0.9996315240859985,
+                                            -0.019193708896636963,
+                                            0.01919163204729557
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Ambient": 0.0,
+                                        "Attenuation": [
+                                            1.0,
+                                            0.09000000357627869,
+                                            0.03200000151991844
+                                        ],
+                                        "Color": [
+                                            0.1522863507270813,
+                                            0.0447474904358387,
+                                            0.31578946113586426
+                                        ],
+                                        "Diffuse": 0.0,
+                                        "Direction": [
+                                            0.0,
+                                            -1.0,
+                                            0.0
+                                        ],
+                                        "Height": 1.0,
+                                        "Intensity": 1.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Specular": 0.0,
+                                        "Variant": "Area Light",
+                                        "Width": 1.0
+                                    },
+                                    "type": "Light"
+                                }
+                            ],
+                            "name": "Island Bottom",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            -5.113334655761719,
+                                            30.0,
+                                            -97.92507934570313
+                                        ],
+                                        "Rotation": [
+                                            -0.00036849439493380487,
+                                            -0.9996315240859985,
+                                            -0.019193708896636963,
+                                            0.01919163204729557
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Ambient": 0.0,
+                                        "Attenuation": [
+                                            1.0,
+                                            0.09000000357627869,
+                                            0.03200000151991844
+                                        ],
+                                        "Color": [
+                                            0.1522863507270813,
+                                            0.0447474904358387,
+                                            0.31578946113586426
+                                        ],
+                                        "Diffuse": 0.0,
+                                        "Direction": [
+                                            0.0,
+                                            -1.0,
+                                            0.0
+                                        ],
+                                        "Height": 1.0,
+                                        "Intensity": 1.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Specular": 0.0,
+                                        "Variant": "Area Light",
+                                        "Width": 1.0
+                                    },
+                                    "type": "Light"
+                                }
+                            ],
+                            "name": "Island Bottom",
+                            "visible": true
+                        },
+                        {
+                            "components": [
+                                {
+                                    "data": {
+                                        "Position": [
+                                            -5.5550737380981445,
+                                            57.21089172363281,
+                                            -28.413230895996094
+                                        ],
+                                        "Rotation": [
+                                            0.0002929260954260826,
+                                            0.9977337121963501,
+                                            0.0671440064907074,
+                                            -0.004352767486125231
+                                        ],
+                                        "Scale": [
+                                            1.0,
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "type": "Transform"
+                                },
+                                {
+                                    "data": {
+                                        "Ambient": 0.10000000149011612,
+                                        "Attenuation": [
+                                            1.0,
+                                            0.09000000357627869,
+                                            0.03200000151991844
+                                        ],
+                                        "Color": [
+                                            0.5986680388450623,
+                                            0.3185759484767914,
+                                            0.9149797558784485
+                                        ],
+                                        "Diffuse": 1.0,
+                                        "Intensity": 500.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Specular": 1.0,
+                                        "Variant": "Point Light"
+                                    },
+                                    "type": "Light"
+                                }
+                            ],
+                            "name": "New Entity",
+                            "visible": true
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    10.74998950958252,
+                                                    49.0,
+                                                    -47.0555534362793
+                                                ],
+                                                "Rotation": [
+                                                    0.005938809365034103,
+                                                    -0.8235862851142883,
+                                                    0.008624882437288761,
+                                                    0.5670943260192871
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 1",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -27.598846435546875,
+                                                    53.18662643432617,
+                                                    -28.682844161987305
+                                                ],
+                                                "Rotation": [
+                                                    0.027815278619527817,
+                                                    -0.9148265719413757,
+                                                    -0.06397091597318649,
+                                                    -0.3977769613265991
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 2",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    14.03031063079834,
+                                                    57.30585861206055,
+                                                    -13.386548042297363
+                                                ],
+                                                "Rotation": [
+                                                    -0.005688438192009926,
+                                                    -0.8849208950996399,
+                                                    -0.010811903513967991,
+                                                    0.46558108925819397
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 3",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -18.0,
+                                                    50.596431732177734,
+                                                    -17.456937789916992
+                                                ],
+                                                "Rotation": [
+                                                    0.014635109342634678,
+                                                    -0.9118942022323608,
+                                                    -0.03264090046286583,
+                                                    -0.40886345505714417
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 4",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    6.611137390136719,
+                                                    53.27357864379883,
+                                                    -5.524904251098633
+                                                ],
+                                                "Rotation": [
+                                                    0.0547071136534214,
+                                                    0.9314340353012085,
+                                                    0.32344844937324524,
+                                                    -0.15754000842571259
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 5",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    36.57358932495117,
+                                                    67.24132537841797,
+                                                    7.428145408630371
+                                                ],
+                                                "Rotation": [
+                                                    -0.04373748600482941,
+                                                    -0.9246282577514648,
+                                                    -0.11189227551221848,
+                                                    0.3614272475242615
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 6",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -22.642789840698242,
+                                                    67.57759857177734,
+                                                    13.296142578125
+                                                ],
+                                                "Rotation": [
+                                                    0.00014622695744037628,
+                                                    -0.9991167187690735,
+                                                    -0.04187560826539993,
+                                                    -0.0034888519439846277
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 75.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 7",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    25.25295066833496,
+                                                    86.72027587890625,
+                                                    31.236289978027344
+                                                ],
+                                                "Rotation": [
+                                                    -0.0015133677516132593,
+                                                    -0.9573063850402832,
+                                                    -0.00501251732930541,
+                                                    0.28902775049209595
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 8",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -41.738311767578125,
+                                                    83.63333129882813,
+                                                    17.53870391845703
+                                                ],
+                                                "Rotation": [
+                                                    -0.1827966570854187,
+                                                    -0.6993304491043091,
+                                                    -0.1926277130842209,
+                                                    0.6636390686035156
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 9",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -16.472429275512695,
+                                                    104.80533599853516,
+                                                    47.30809783935547
+                                                ],
+                                                "Rotation": [
+                                                    -0.04852304607629776,
+                                                    0.9167219400405884,
+                                                    -0.11743482947349548,
+                                                    -0.3787815272808075
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 10",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -31.84099769592285,
+                                                    108.09376525878906,
+                                                    50.38566207885742
+                                                ],
+                                                "Rotation": [
+                                                    -0.009072654880583286,
+                                                    0.9898579120635986,
+                                                    0.07442772388458252,
+                                                    0.12066255509853363
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.0,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    0.09000000357627869,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.0,
+                                                    0.9635627269744873,
+                                                    0.9518595337867737
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 50.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Specular": 0.0,
+                                                "Variant": "Point Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Mushrooms 11",
+                                    "visible": true
+                                }
+                            ],
+                            "name": "Mushrooms",
+                            "visible": true
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -10.846128463745117,
+                                                    49.00271224975586,
+                                                    -38.903343200683594
+                                                ],
+                                                "Rotation": [
+                                                    -0.1850626915693283,
+                                                    -0.7952084541320801,
+                                                    -0.49497348070144653,
+                                                    0.2973157465457916
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.10000000149011612,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    4.0,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.19304132461547852,
+                                                    0.02145584672689438,
+                                                    0.3117408752441406
+                                                ],
+                                                "Diffuse": 1.0,
+                                                "Intensity": 1.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Radius": 16.0,
+                                                "Specular": 1.0,
+                                                "Variant": "Sphere Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Sphere 1",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    1.3677763938903809,
+                                                    49.08502197265625,
+                                                    -51.62269973754883
+                                                ],
+                                                "Rotation": [
+                                                    -0.027220431715250015,
+                                                    -0.9275400042533875,
+                                                    -0.3663027882575989,
+                                                    0.06892669200897217
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.10000000149011612,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    4.0,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.19304132461547852,
+                                                    0.02145584672689438,
+                                                    0.3117408752441406
+                                                ],
+                                                "Diffuse": 1.0,
+                                                "Intensity": 1.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Radius": 12.0,
+                                                "Specular": 1.0,
+                                                "Variant": "Sphere Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Sphere 2",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    -12.293128967285156,
+                                                    59.98699951171875,
+                                                    -10.875128746032715
+                                                ],
+                                                "Rotation": [
+                                                    -0.012945057824254036,
+                                                    -0.9695051312446594,
+                                                    -0.2390303760766983,
+                                                    0.052505042403936386
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.10000000149011612,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    4.0,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.19304132461547852,
+                                                    0.02145584672689438,
+                                                    0.3117408752441406
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 10.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Radius": 10.0,
+                                                "Specular": 0.0,
+                                                "Variant": "Sphere Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Sphere 3",
+                                    "visible": true
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "data": {
+                                                "Position": [
+                                                    3.0621728897094727,
+                                                    71.24971008300781,
+                                                    -11.070083618164063
+                                                ],
+                                                "Rotation": [
+                                                    0.005791798699647188,
+                                                    -0.989520251750946,
+                                                    -0.04147300124168396,
+                                                    -0.13818876445293427
+                                                ],
+                                                "Scale": [
+                                                    1.0,
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "type": "Transform"
+                                        },
+                                        {
+                                            "data": {
+                                                "Ambient": 0.10000000149011612,
+                                                "Attenuation": [
+                                                    1.0,
+                                                    4.0,
+                                                    0.03200000151991844
+                                                ],
+                                                "Color": [
+                                                    0.19304132461547852,
+                                                    0.02145584672689438,
+                                                    0.3117408752441406
+                                                ],
+                                                "Diffuse": 0.0,
+                                                "Intensity": 10.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Radius": 10.0,
+                                                "Specular": 1.0,
+                                                "Variant": "Sphere Light"
+                                            },
+                                            "type": "Light"
+                                        }
+                                    ],
+                                    "name": "Sphere 4",
+                                    "visible": true
+                                }
+                            ],
+                            "name": "Spheres",
+                            "visible": true
+                        }
+                    ],
+                    "name": "Lights",
+                    "visible": true
+                }
+            ],
+            "name": "Scene",
+            "visible": true
+        }
+    ],
+    "models": [
+        {
+            "generateMipmap": false,
+            "name": "end_island",
+            "path": "C:/Users/thomas/CLionProjects/OpenGL/assets/models/end_island.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "ender_dragon",
+            "path": "C:/Users/thomas/CLionProjects/OpenGL/assets/models/ender_dragon.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "enderman_1",
+            "path": "C:/Users/thomas/CLionProjects/OpenGL/assets/models/enderman_1.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "enderman_2",
+            "path": "assets/models/enderman_2.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "enderman_3",
+            "path": "assets/models/enderman_3.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "enderman_4",
+            "path": "assets/models/enderman_4.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "enderman_5",
+            "path": "assets/models/enderman_5.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "steve",
+            "path": "assets/models/steve.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "alex",
+            "path": "assets/models/alex.glb"
+        },
+        {
+            "generateMipmap": false,
+            "name": "dog",
+            "path": "assets/models/dog.glb"
+        }
+    ],
+    "shaderConfig": {
+        "Blur Initial Strength": 0.4000000059604645,
+        "Blur Passes": 11,
+        "Blur Strength Multiplier": 1.100000023841858,
+        "Bright Knee": 2.0,
+        "Bright Threshold": 5.0,
+        "Composite Exposure": 1.0,
+        "Global Ambient": [
+            0.005882353521883488,
+            0.007843137718737125,
+            0.007843137718737125
+        ],
+        "Outline Color": [
+            1.0,
+            0.800000011920929,
+            0.0,
+            1.0
+        ],
+        "Outline Width": 3.0,
+        "Sky Color": [
+            0.08844957500696182,
+            0.03529411554336548,
+            0.24705882370471954
+        ],
+        "Sky Intensity": 2.0,
+        "Sky Rotation": [
+            0.0,
+            -10.0,
+            74.0
+        ]
+    },
+    "skybox": {
+        "emissive": true,
+        "path": "assets/skyboxes/skybox.hdr"
+    }
+}
